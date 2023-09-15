@@ -5,18 +5,18 @@ You dont have to following these naming conventions but please make sure you nam
 
 another example below:
 
--homework
---HW1
----index.html
----style.css
+- homework
+-- HW1
+--- index.html
+--- style.css
 --HW2
---HW3
---HW4
+-- HW3
+-- HW4
 
 live-assessments
--A1
--A2
--A3
+- A1
+- A2
+- A3
 
 -other
 -- This can be work that isnt homework but you would like to keep in the repo.
